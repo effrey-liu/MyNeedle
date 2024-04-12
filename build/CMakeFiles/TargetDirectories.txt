@@ -1,0 +1,4 @@
+/home/ljff/dlsys/hw4_extra/build/CMakeFiles/ndarray_backend_cpu.dir
+/home/ljff/dlsys/hw4_extra/build/CMakeFiles/ndarray_backend_cuda.dir
+/home/ljff/dlsys/hw4_extra/build/CMakeFiles/edit_cache.dir
+/home/ljff/dlsys/hw4_extra/build/CMakeFiles/rebuild_cache.dir
